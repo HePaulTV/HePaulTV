@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HePaulTV
-- 👀 I’m interested in programming, cybersecurity and anti-cheats services
-- 🌱 I’m currently learning Dart
+- 👋 Hi, I’m Paul Carouge
+- 👀 I’m interested in programming website, mobile and desktop apps.
+- 🌱 I’m currently learning Dart, HTML, CSS & JS.
 - 💞️ I’m looking to collaborate on everything that can improve my skills
 - 📫 How to reach me : Post a message or on Discord(HePaul#3141)
 
